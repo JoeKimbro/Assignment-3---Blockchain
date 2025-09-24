@@ -1,0 +1,9 @@
+Compiling your Solidity contracts...
+
+Nothing to compile
+
+Before - Deployer: 999700 CAMP, Recipient: 220 CAMP
+Transfer - tx hash: 0x5211a0337b4b5a091fe0d46da066b88cd5c5f7f949ac8656f9042bb6c1fec0a0, block: 27, gas used: 36824
+Approve - tx hash: 0x969f50a569c494c63305e7c7483f271fc81d6a599c30f7c3432368323e266395, block: 28, gas used: 26509
+Allowance: 50 CAMP
+After - Deployer: 999600 CAMP, Recipient: 320 CAMP

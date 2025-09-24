@@ -1,0 +1,5 @@
+Compiling your Solidity contracts...
+
+Nothing to compile
+
+Batch airdrop gas: 67603, Individual transfers gas: 139660, Gas saved: 51.59%
