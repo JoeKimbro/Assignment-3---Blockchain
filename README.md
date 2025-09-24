@@ -151,6 +151,10 @@ To run tests (if created):
 npx hardhat test
 ```
 
-## License
+## Screenshots
 
-This project is for educational purposes as part of the DIDLab blockchain development course.
+<img width="1321" height="824" alt="5" src="https://github.com/user-attachments/assets/635386ec-a151-4913-acb1-3c3ac69ff94d" />
+<img width="1306" height="822" alt="4" src="https://github.com/user-attachments/assets/028538da-7cbb-47f1-85c7-4a129150f187" />
+<img width="1347" height="844" alt="3" src="https://github.com/user-attachments/assets/92979f8c-d22a-4144-a62c-1617fd34441d" />
+<img width="1281" height="807" alt="2" src="https://github.com/user-attachments/assets/99a74e31-74d3-4973-9859-b91da1b5b66c" />
+<img width="1006" height="291" alt="1" src="https://github.com/user-attachments/assets/9e64cec4-b30d-4d25-ae41-9099b86e3ccb" />
